@@ -1,0 +1,292 @@
+fileFormatVersion: 2
+guid: 739f1b2534233478caa8478a368932b7
+timeCreated: 1516047571
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: engine_barrel_33
+    100004: engine_barrel_34
+    100006: engine_barrel_37
+    100008: engine_barrel_38
+    100010: engine_barrel_39
+    100012: engine_barrel_40
+    100014: engine_high_29
+    100016: engine_high_30
+    100018: engine_high_31
+    100020: engine_high_32
+    100022: engine_high_43
+    100024: engine_high_44
+    100026: engine_intake_23
+    100028: engine_intake_24
+    100030: engine_intakeArrow_26
+    100032: engine_plane_17
+    100034: engine_plane_18
+    100036: engine_plane_51
+    100038: engine_plane_52
+    100040: plane_body_10
+    100042: plane_body_11
+    100044: plane_body_12
+    100046: plane_body_13
+    100048: plane_body_15
+    100050: plane_body_16
+    100052: plane_body_9
+    100054: plane_cockpitDown_8
+    100056: plane_elevator_49
+    100058: plane_elevator_50
+    100060: plane_end_14
+    100062: ship_cargoOpen_54
+    100064: ship_cargoOpen_55
+    100066: wing_endHigh_45
+    100068: wing_endHigh_46
+    100070: wing_intake_47
+    100072: wing_intake_48
+    400000: //RootNode
+    400002: engine_barrel_33
+    400004: engine_barrel_34
+    400006: engine_barrel_37
+    400008: engine_barrel_38
+    400010: engine_barrel_39
+    400012: engine_barrel_40
+    400014: engine_high_29
+    400016: engine_high_30
+    400018: engine_high_31
+    400020: engine_high_32
+    400022: engine_high_43
+    400024: engine_high_44
+    400026: engine_intake_23
+    400028: engine_intake_24
+    400030: engine_intakeArrow_26
+    400032: engine_plane_17
+    400034: engine_plane_18
+    400036: engine_plane_51
+    400038: engine_plane_52
+    400040: plane_body_10
+    400042: plane_body_11
+    400044: plane_body_12
+    400046: plane_body_13
+    400048: plane_body_15
+    400050: plane_body_16
+    400052: plane_body_9
+    400054: plane_cockpitDown_8
+    400056: plane_elevator_49
+    400058: plane_elevator_50
+    400060: plane_end_14
+    400062: ship_cargoOpen_54
+    400064: ship_cargoOpen_55
+    400066: wing_endHigh_45
+    400068: wing_endHigh_46
+    400070: wing_intake_47
+    400072: wing_intake_48
+    2300000: engine_barrel_33
+    2300002: engine_barrel_34
+    2300004: engine_barrel_37
+    2300006: engine_barrel_38
+    2300008: engine_barrel_39
+    2300010: engine_barrel_40
+    2300012: engine_high_29
+    2300014: engine_high_30
+    2300016: engine_high_31
+    2300018: engine_high_32
+    2300020: engine_high_43
+    2300022: engine_high_44
+    2300024: engine_intake_23
+    2300026: engine_intake_24
+    2300028: engine_intakeArrow_26
+    2300030: engine_plane_17
+    2300032: engine_plane_18
+    2300034: engine_plane_51
+    2300036: engine_plane_52
+    2300038: plane_body_10
+    2300040: plane_body_11
+    2300042: plane_body_12
+    2300044: plane_body_13
+    2300046: plane_body_15
+    2300048: plane_body_16
+    2300050: plane_body_9
+    2300052: plane_cockpitDown_8
+    2300054: plane_elevator_49
+    2300056: plane_elevator_50
+    2300058: plane_end_14
+    2300060: ship_cargoOpen_54
+    2300062: ship_cargoOpen_55
+    2300064: wing_endHigh_45
+    2300066: wing_endHigh_46
+    2300068: wing_intake_47
+    2300070: wing_intake_48
+    3300000: engine_barrel_33
+    3300002: engine_barrel_34
+    3300004: engine_barrel_37
+    3300006: engine_barrel_38
+    3300008: engine_barrel_39
+    3300010: engine_barrel_40
+    3300012: engine_high_29
+    3300014: engine_high_30
+    3300016: engine_high_31
+    3300018: engine_high_32
+    3300020: engine_high_43
+    3300022: engine_high_44
+    3300024: engine_intake_23
+    3300026: engine_intake_24
+    3300028: engine_intakeArrow_26
+    3300030: engine_plane_17
+    3300032: engine_plane_18
+    3300034: engine_plane_51
+    3300036: engine_plane_52
+    3300038: plane_body_10
+    3300040: plane_body_11
+    3300042: plane_body_12
+    3300044: plane_body_13
+    3300046: plane_body_15
+    3300048: plane_body_16
+    3300050: plane_body_9
+    3300052: plane_cockpitDown_8
+    3300054: plane_elevator_49
+    3300056: plane_elevator_50
+    3300058: plane_end_14
+    3300060: ship_cargoOpen_54
+    3300062: ship_cargoOpen_55
+    3300064: wing_endHigh_45
+    3300066: wing_endHigh_46
+    3300068: wing_intake_47
+    3300070: wing_intake_48
+    4300000: engine_barrel_33
+    4300002: engine_barrel_34
+    4300004: engine_barrel_37
+    4300006: engine_barrel_38
+    4300008: engine_barrel_39
+    4300010: engine_barrel_40
+    4300012: engine_high_29
+    4300014: engine_high_30
+    4300016: engine_high_31
+    4300018: engine_high_32
+    4300020: engine_high_43
+    4300022: engine_high_44
+    4300024: engine_intake_23
+    4300026: engine_intake_24
+    4300028: engine_intakeArrow_26
+    4300030: engine_plane_17
+    4300032: engine_plane_18
+    4300034: engine_plane_51
+    4300036: engine_plane_52
+    4300038: plane_body_10
+    4300040: plane_body_11
+    4300042: plane_body_12
+    4300044: plane_body_13
+    4300046: plane_body_15
+    4300048: plane_body_16
+    4300050: plane_body_9
+    4300052: plane_cockpitDown_8
+    4300054: plane_elevator_49
+    4300056: plane_elevator_50
+    4300058: plane_end_14
+    4300060: ship_cargoOpen_54
+    4300062: ship_cargoOpen_55
+    4300064: wing_endHigh_45
+    4300066: wing_endHigh_46
+    4300068: wing_intake_47
+    4300070: wing_intake_48
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 489a4eb8ed9054e278ee75f7bbb95564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: black
+    second: {fileID: 2100000, guid: 327539528e38e46039e3de9b71435f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blueSteel
+    second: {fileID: 2100000, guid: 0c0622dd58acf495a8a0e7670430ab40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: engine
+    second: {fileID: 2100000, guid: b437d27a081ab4b319a38c9ddd26dac2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: glass
+    second: {fileID: 2100000, guid: 2c0f5910d60914f5a8ea34498c16d6e7, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
